@@ -85,7 +85,7 @@ return [
 				"discord_waiting" => "Menunggu...",
 				"verify_discord_to_signup" => "Untuk mendaftar ke Beta, kamu harus verifikasi Discord",
 				"continue_with_discord" => "Lanjutkan dengan Discord",
-				"already_have_account" => "Sudah punya Akun? Masuk,
+				"already_have_account" => "Sudah punya Akun? Masuk",
 				"beta_thanks" => "Terimkasih sudah ke pengujian beta. Masukan anda sangat berharga",
 				"app_debug_on" => "APP_DEBUG is on!",
 				"submit" => "Daftar",
