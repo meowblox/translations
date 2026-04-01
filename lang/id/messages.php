@@ -99,10 +99,10 @@ return [
 			"home" => [
 				"title" => "Home - Meowblox",
 				"hello" => "Hello, :username!",
-				"you_are_special" => "You're special!",
+				"you_are_special" => "Kamu Spesial!",
 				"staff_welcome" => "Welcome to the team! Log into :administration and get started.",
 				"staff_access" => "You can also access this via :housekeeping in the :settings_menu.",
-				"verify_email" => "Verifikasi email Kamu,
+				"verify_email" => "Verifikasi email Kamu",
 				"verify_email_sent" => "Kamu Belum memencet link verifikasi yang kami kirim. Coba cek spam folder mu?",
 				"verify_email_no_email" => "Pastikan kamu tidak terkunci di luar akunmu - dan mendaptkan topi gratis!",
 				"settings" => "Pengaturan",
