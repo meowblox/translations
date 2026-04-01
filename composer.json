@@ -1,0 +1,16 @@
+{
+    "name": "meowblox/translations",
+    "description": "Translations for Meowblox's website. It's that simple!",
+    "autoload": {
+        "psr-4": {
+            "Meowblox\\Translations\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Meowblox\\Translations\\TranslationServiceProvider"
+            ]
+        }
+    }
+}
