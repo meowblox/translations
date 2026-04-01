@@ -98,7 +98,7 @@ return [
 		"main" => [
 			"home" => [
 				"title" => "Home - Meowblox",
-				"hello" => "Hello, :username!",
+				"hello" => "Halo, :username!",
 				"you_are_special" => "Kamu Spesial!",
 				"staff_welcome" => "Welcome to the team! Log into :administration and get started.",
 				"staff_access" => "You can also access this via :housekeeping in the :settings_menu.",
