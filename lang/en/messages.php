@@ -417,7 +417,7 @@ return [
 			"lucky_number" => "Lucky number:",
 			"not_affiliated_short" => "Not affiliated with R*.",
 			"copyright" => "© :year meowblox, not affiliated with R* Corporation.",
-			"rendered_in" => "Rendered in :seconds s",
+			"rendered_in" => "Rendered in",
 		],
 		"navbar" => [
 			"primary" => [
